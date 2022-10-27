@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Archia-Regular';
+  src: url('./assets/Archia-Regular.otf');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+body {
+  margin: 0;
+  font-family: Archia-Regular;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* overflow: hidden; */
+}
+
+code {
+  font-family: Archia-Regular;
+}
